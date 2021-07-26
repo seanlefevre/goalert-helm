@@ -1,3 +1,3 @@
 # goalert-helm
 to install chart
-'helm install goalert ./goalert/'
+`helm install goalert ./goalert/`
